@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=random-robbie&label=Profile%20views&color=0e75b6&style=flat" alt="random-robbie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=random-robbie" alt="random-robbie" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/random_robbie" target="blank"><img src="https://img.shields.io/twitter/follow/random_robbie?logo=twitter&style=for-the-badge" alt="random_robbie" /></a> </p>
 
