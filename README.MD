@@ -14,9 +14,11 @@
 
 <h3 align="left">Support:</h3>
 
-Get a VPS with free credit!
+Get a free VPS.
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e22bbff5f6f1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=e22bbff5f6f1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+You get free $200 credit for 60 days if you sign up and add a payment method.
 
 
 [![Linode Referral Badge](https://github.com/pry0cc/axiom/blob/3e8dca3d58a02dc71778492a1fe077e769f93edd/screenshots/Referrals/Linode-referral.png)](https://www.linode.com/lp/refer/?r=f359e3680225dbea12417cec5cb672686febc053)
